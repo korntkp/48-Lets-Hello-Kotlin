@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">48 Lets Hello Kotlin</string>
+    <string name="main_tv_hello_kotlin">Hello Kotlin</string>
+</resources>
