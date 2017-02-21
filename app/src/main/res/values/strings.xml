@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">48 Lets Hello Kotlin</string>
+
     <string name="main_tv_hello_kotlin">Hello Kotlin</string>
+
+    <string name="third_button_goto_main">Goto Main Activity</string>
+    <string name="btn_goto_second">Goto Second Activity</string>
+    <string name="btn_goto_third">Goto Third Activity</string>
+    <string name="tv_second_activity">Second Activity</string>
+    <string name="btn_show_toast">Toast</string>
 </resources>
