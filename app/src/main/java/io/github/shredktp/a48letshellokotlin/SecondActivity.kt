@@ -18,7 +18,7 @@ class SecondActivity : AppCompatActivity() {
         })
 
         btn_show_toast.setOnClickListener({
-            Toast.makeText(applicationContext, "This is Second Activity", Toast.LENGTH_SHORT).show()
+            Toast.makeText(applicationContext, getString(R.string.second_toast_message), Toast.LENGTH_SHORT).show()
         })
     }
 

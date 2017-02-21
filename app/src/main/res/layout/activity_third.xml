@@ -11,6 +11,7 @@
     tools:context="io.github.shredktp.a48letshellokotlin.ThirdActivity">
 
     <TextView
+        android:id="@+id/tv_title_third"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
